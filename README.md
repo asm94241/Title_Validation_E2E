@@ -1,3 +1,4 @@
-This demo reads uri's(url's) from Title_Valisation.csv, getting titles of sites and compate it with existing titles in Title_Valisation.csv
-Run Maven mvn clean site test -Dtest=AllTests -Dbuild.version="1.1" to execute tests
-Shurfire report will be in .\target\site
+The project is getting actual and expected titles of 12 sites
+Comparing it
+
+Result (Shurfire_report) will be in ./Title_Validation_E2E/target/site
